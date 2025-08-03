@@ -3,7 +3,6 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_jwt_extended import JWTManager
 import os
 
-# Initialize extensions
 db = SQLAlchemy()
 jwt = JWTManager()
 
@@ -22,3 +21,4 @@ def create_app():
         db.create_all()
 
     return app
+
