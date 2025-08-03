@@ -19,3 +19,7 @@ This project presents a RESTful backend API built with Flask for managing job ap
 - Flask-SQLAlchemy  
 - PostgreSQL  
 - Docker & Docker Compose  
+
+## Project Structure
+
+<img width="310" height="259" alt="image" src="https://github.com/user-attachments/assets/8bc7deb3-bab2-4f0e-b3b2-db0df8b39492" />
