@@ -1,4 +1,4 @@
-# JobAPI: Job Application Tracker API
+# JobAPI: A RESTful API For Job Application Tracking
 
 This project presents a RESTful backend API built with Flask for managing job applications. It features user authentication with JWT, CRUD operations for job applications, and analytics on application outcomes. The app also uses PostgreSQL for data persistence and is fully containerized using Docker and Docker Compose for easy deployment and development.
 
